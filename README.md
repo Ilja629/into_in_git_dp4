@@ -4,17 +4,17 @@ Adrese:Rīga
 Telefons:24957357
 E-pasts:ilja030904@inbox.lv
 
-ĪSS RAKSTUROJUMS UN MĒRĶIS
+ĪSS RAKSTUROJUMS UN MĒRĶIS:
 Vidējās specializētās izglītības iegūšana programmēšanas jomā.
 
-IZGLĪTĪBA
+IZGLĪTĪBA:
 Pabeidzu 95.vidusskolu.
 2011-2020-pabeidza pamatskolu.
 
-DARBU PIEREDZE 
+DARBU PIEREDZE:
 Nav.
 
-VALODU ZINĀŠANAS 
+VALODU ZINĀŠANAS:
 Latviešu:
 Runāju-labi 
 Saprotu-vidēji 
@@ -23,6 +23,7 @@ Dzimta valoda krievu:
 Runāju-teicami 
 Saprotu-teicami 
 Rakstu-teicami 
+
 Angļu:
 Runāju-labi 
 Saprotu-labi 
